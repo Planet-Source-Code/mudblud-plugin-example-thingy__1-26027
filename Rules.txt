@@ -1,0 +1,4 @@
+dll's name must be same as project name 
+e.g. project1 -> project1.dll
+
+project must have a class named Plugin
